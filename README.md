@@ -1,7 +1,7 @@
 <h1 align="center">NamShyn</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;C%2B%2B+%7C+C%23+%7C+Python;OOP+Project+Builder;Backend+Developer+In+Progress+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;C%2B%2B+%7C+C%23+%7C+Java+%7C+Python;OOP+Project+Builder;Backend+Developer+In+Progress+🚀" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 ### 🛠️ Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,idea,vscode,visualstudio,cpp,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,idea,vscode,visualstudio,cpp,python,html,css,java" />
 </p>
 
 ---
