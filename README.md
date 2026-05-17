@@ -1,4 +1,4 @@
-<h1 align="center">NamShyn</h1>
+<h1 align="center"> Hello, I'm NamShyn</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;C%2B%2B+%7C+C%23+%7C+Java+%7C+Python;OOP+Project+Builder;Backend+Developer+In+Progress+🚀" />
