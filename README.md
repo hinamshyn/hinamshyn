@@ -123,9 +123,39 @@
 # 🌐 Kết nối với tôi
 
 <p align="left">
-  <a href="https://github.com/NamShyn">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+
+<a href="https://github.com/NamShyn">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://t.me/YOUR_TELEGRAM">
+  <img src="https://skillicons.dev/icons?i=telegram" />
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://discord.gg/YOUR_DISCORD">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+
+<a href="https://facebook.com/YOUR_FACEBOOK">
+  <img width="48" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>
+</a>
+
+<a href="https://zalo.me/YOUR_ZALO">
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg"/>
+</a>
+
+<a href="https://wechat.com">
+  <img width="48" src="https://cdn-icons-png.flaticon.com/512/5968/5968847.png"/>
+</a>
+
 </p>
 
 ---
@@ -133,7 +163,6 @@
 <p align="center">
   💻 Never Stop Learning 🚀
 </p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
