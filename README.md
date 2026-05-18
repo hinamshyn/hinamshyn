@@ -6,19 +6,19 @@
 
 ---
 
-# 👋 Xin chào, tôi là NamShyn
+# 👋 Hello, I'm NamShyn
 
-🎓 Sinh viên Công nghệ Thông tin  
-💻 Đam mê phát triển phần mềm  
-🔥 Quan tâm đến Backend & Lập trình hướng đối tượng (OOP)  
-📚 Hiện đang trau dồi kỹ năng giải quyết vấn đề  
-🎯 Mục tiêu: Trở thành Full Stack Developer  
+🎓 Information Technology Student  
+💻 Passionate about Software Development  
+🔥 Interested in Backend Development & Object-Oriented Programming (OOP)  
+📚 Currently improving problem-solving skills  
+🎯 Goal: Become a Full Stack Developer  
 
 ---
 
-# 🚀 Kỹ năng kỹ thuật
+# 🚀 Technical Skills
 
-## 💻 Ngôn ngữ lập trình
+## 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,html,css,js" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Công cụ & Công nghệ
+## 🛠️ Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,mysql" />
@@ -34,48 +34,48 @@
 
 ---
 
-# 📌 Các dự án nổi bật
+# 📌 Featured Projects
 
 ---
 
-## 🛍️ Hệ thống quản lý cửa hàng quần áo
+## 🛍️ Clothing Store Management System
 
-📌 Dự án Java hướng đối tượng
+📌 Object-Oriented Java Project
 
-### ✨ Tính năng
-- Quản lý sản phẩm quần áo
-- Quản lý hóa đơn
-- Tính doanh thu
-- Lưu trữ file nhị phân
-- Menu console
-- Kế thừa & đa hình
-- Thiết kế UML
+### ✨ Features
+- Clothing product management
+- Invoice management
+- Revenue calculation
+- Binary file storage
+- Console menu system
+- Inheritance & polymorphism
+- UML design
 
-### 🛠️ Công nghệ
+### 🛠️ Technologies
 - Java
 - OOP
-- File Binary
+- Binary File Handling
 - ArrayList
 
 ---
 
-## 🤖 English Master Bot - Telegram AI Learning Bot
+## 🤖 English Master Bot — Telegram AI Learning Bot
 
-📌 Bot học tiếng Anh thông minh trên Telegram được phát triển bằng Python
+📌 Smart English learning bot on Telegram built with Python
 
-### ✨ Tính năng nổi bật
-- 📚 Học từ vựng tiếng Anh
-- 📝 Quiz trắc nghiệm tương tác
-- 🎤 Luyện speaking
-- 🧠 Hệ thống XP & Level
-- 🔥 Quiz liên tục không cần thao tác lại
-- 🌐 Lấy dữ liệu từ vựng online bằng API
-- 🤖 Random câu hỏi tự động
-- ⚡ Giao diện kiểu Quizii / Duolingo
-- 📈 Theo dõi tiến trình học
-- 🚀 Hệ thống học realtime
+### ✨ Key Features
+- 📚 English vocabulary learning
+- 📝 Interactive quiz system
+- 🎤 Speaking practice
+- 🧠 XP & Level system
+- 🔥 Continuous quiz automation
+- 🌐 Fetch vocabulary via online APIs
+- 🤖 Automatic random questions
+- ⚡ Duolingo-style learning experience
+- 📈 Learning progress tracking
+- 🚀 Real-time learning system
 
-### 🛠️ Công nghệ sử dụng
+### 🛠️ Technologies Used
 - Python
 - Telegram Bot API
 - REST API
@@ -83,22 +83,22 @@
 - Async/Await
 - python-telegram-bot
 
-### 🚀 Điểm nổi bật của dự án
-- Tích hợp API từ điển online
-- Xử lý dữ liệu realtime
-- Thiết kế hệ thống quiz động
-- Tối ưu trải nghiệm người dùng
-- Xây dựng bot tương tác thực tế
-- Áp dụng lập trình bất đồng bộ
+### 🚀 Project Highlights
+- Online dictionary API integration
+- Real-time data processing
+- Dynamic quiz system design
+- User experience optimization
+- Practical interactive bot development
+- Asynchronous programming implementation
 
-### 🎯 Hướng phát triển
-- AI chấm phát âm
-- Voice speaking
-- Database người dùng
-- Leaderboard
-- Daily streak
+### 🎯 Future Improvements
+- AI pronunciation evaluation
+- Voice speaking feature
+- User database system
+- Leaderboard ranking
+- Daily streak system
 - Telegram Mini App
-- Hệ thống học cá nhân hóa
+- Personalized learning system
 
 ---
 
@@ -120,7 +120,7 @@
 
 ---
 
-# 🌐 Kết nối với tôi
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -163,6 +163,9 @@
 <p align="center">
   💻 Never Stop Learning 🚀
 </p>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
